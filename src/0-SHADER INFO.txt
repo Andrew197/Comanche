@@ -1,0 +1,10 @@
+Brick.vert      (brick shader)
+vRot.vert       (vertical rotation)
+hRot.vert       (horizontal rotation)
+Wave.vert       (wave shader)
+
+Brick.frag      (brick frag shader)
+Metal.frag      (per pixel lighting)
+Colorshift.frag (color shift shader)
+Fullbright.frag (fullbright shader)
+basic.frag      (basic frag shader)
